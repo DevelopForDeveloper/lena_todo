@@ -13,5 +13,14 @@ body {
   background-color: blanchedalmond;
   border-radius: 15px;
   text-align: center;
-  padding-top: 15px;
+  padding: 15px;
+  padding-right: 50px;
+}
+
+li {
+  list-style: none;
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 7px;
 }
